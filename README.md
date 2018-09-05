@@ -1,6 +1,6 @@
 fisheye
 =======
-
+使用鱼眼镜头图像的GLSL示例程序的平面展开
 魚眼レンズ画像の GLSL を使った平面展開のサンプルプログラム
 
     Copyright (c) 2016 Kohe Tokoi. All Rights Reserved.
